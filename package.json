@@ -2,6 +2,7 @@
   "name": "fuel-charts",
   "version": "0.0.1",
   "description": "Fuel Charts",
+  "private": "true",
   "main": "fuel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +18,6 @@
   },
   "homepage": "https://github.com/hemanth-s-a/fuel-charts",
   "dependencies": {
-    "express": "^4.12.2",
-    "requirejs": "^2.1.16"
+    "express": "^4.12.2"
   }
 }
