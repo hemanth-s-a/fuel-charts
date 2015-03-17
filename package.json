@@ -1,0 +1,23 @@
+{
+  "name": "fuel-charts",
+  "version": "0.0.1",
+  "description": "Fuel Charts",
+  "main": "fuel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth-s-a/fuel-charts.git"
+  },
+  "author": "Arcanic Aura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanth-s-a/fuel-charts/issues"
+  },
+  "homepage": "https://github.com/hemanth-s-a/fuel-charts",
+  "dependencies": {
+    "express": "^4.12.2",
+    "requirejs": "^2.1.16"
+  }
+}
